@@ -3,7 +3,7 @@
 Console.WriteLine(" ----- ");
 Console.WriteLine(" ");
 
-Console.WriteLine("Core Linux Hello, World!");
+Console.WriteLine("Core Linux...ConsoleCoreLinux... Hello World!");
 
 Console.WriteLine(" ");
 Console.WriteLine(" ----- ");
